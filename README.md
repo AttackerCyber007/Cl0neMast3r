@@ -40,9 +40,9 @@ Option | Description
 
 ## Installation:
 ```
-git clone https://github.com/Abdulraheem30042/Cl0neMast3r.git
+git clone https://github.com/DarkNet-Hacker-Team/Cl0neMast3r
 cd Cl0neMast3r/
-pip install -r requirements.txt
+pip2 install -r requirements.txt
 ```
 
 ## Environment:
